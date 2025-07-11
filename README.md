@@ -16,3 +16,8 @@ You see a text box with **SELECT title from employees**. This is where you will 
 In the bottom right, that green button is what you tap to **execute** the SQL command you've typed. 
 
 ![Image](https://github.com/user-attachments/assets/5d4afc0f-2aa1-48f5-b9ed-84a78aa3db2b)
+
+## TIPS
+(i) To make a text bold use **text**
+
+(ii) To add image go to issues > drag and drop your image > a url will be created > from there copy the url > paste the url where you need to show image. 
