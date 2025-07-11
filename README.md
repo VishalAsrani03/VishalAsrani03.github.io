@@ -5,4 +5,6 @@ This repository is build for **curious minds who want to master SQL from the gro
 SQL (Structured Query Language) is the standard language for managing and manipulating relational databases. It's an essential skill for 
 anyone working with data. 
 
+# How to run query or command using SQL Play Application
+
 ![Image](https://github.com/user-attachments/assets/5d4afc0f-2aa1-48f5-b9ed-84a78aa3db2b)
