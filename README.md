@@ -6,6 +6,7 @@ SQL (Structured Query Language) is the standard language for managing and manipu
 anyone working with data. 
 
 # How to run query or command using SQL Play Application
+
 **The Query Editor**
 You see a text box with **SELECT title from employees**. This is where you will type your SQL commands. 
 
