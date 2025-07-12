@@ -41,3 +41,21 @@ The basic structure you just used in the screenshot above is:
 
 ## TIPS
 (1) In order to use bullet points use "-" before your text.
+
+# First Step: Selecting All Columns
+
+Often you want to see all the data for each row in table, not just single column. 
+For this, we use the asterisk (*) as a wildcard character. 
+
+Steps to follow
+(1) In your SQL Play app clear the current query in the editor area (delete **SELECT title from employees)**.
+(2) Type the following command into the editor:
+    SELECT *
+    FROM employees;
+(3) Tap the green play/send button in the bottom right corner. 
+
+**What to expect**
+
+You should now see all the columns and all the rows from the **employees** table. 
+This will give us a better idea of what other columns (like **name**, **id**, **salary**, etc.) are available in this table. 
+
