@@ -59,3 +59,4 @@ Steps to follow
 You should now see all the columns and all the rows from the **employees** table. 
 This will give us a better idea of what other columns (like **name**, **id**, **salary**, etc.) are available in this table. 
 
+![Image](https://github.com/user-attachments/assets/1ac66c40-d9ee-4ff4-8d1d-6747d183ce71)
