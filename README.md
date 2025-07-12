@@ -39,5 +39,5 @@ The basic structure you just used in the screenshot above is:
 - **FROM**: This keyword specifies which table you want to get the data from.
 - **table_name**: This is the name of the table. In our case, it was **employees**
 
-##TIPS
+## TIPS
 (1) In order to use bullet points use "-" before your text.
