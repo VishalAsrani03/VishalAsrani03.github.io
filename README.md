@@ -21,3 +21,23 @@ In the bottom right, that green button is what you tap to **execute** the SQL co
 (i) To make a text bold use **text**
 
 (ii) To add image go to issues > drag and drop your image > a url will be created > from there copy the url > paste the url where you need to show image. 
+
+# Undertsanding the **SELECT** Statement
+
+![Image](https://github.com/user-attachments/assets/5d4afc0f-2aa1-48f5-b9ed-84a78aa3db2b)
+
+
+The **SELECT** statement is the most fundamental and frequently used command in SQL. 
+Its how you ask the database to give you data. 
+
+The basic structure you just used in the screenshot above is:
+**SELECT** column_name
+**FROM** table_name;
+
+- **SELECT**: This keyword tells the database you want to retrieve data.
+- **column_name**: This is the name of the column you want to see. In our case, it was **title**
+- **FROM**: This keyword specifies which table you want to get the data from.
+- **table_name**: This is the name of the table. In our case, it was **employees**
+
+##TIPS
+(1) In order to use bullet points use "-" before your text.
