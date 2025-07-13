@@ -71,3 +71,5 @@ This will give us a better idea of what other columns (like **name**, **id**, **
 **FROM** employees;
 
 (3) Tap the green play/send button. 
+
+![Image](https://github.com/user-attachments/assets/b939c0f4-d24f-491e-9bb8-ae91b434ebf1)
