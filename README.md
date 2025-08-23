@@ -79,3 +79,6 @@ This will give us a better idea of what other columns (like **name**, **id**, **
 
 ## Concept 1 : SELECT * FROM table;
 
+# Create a small table
+
+
