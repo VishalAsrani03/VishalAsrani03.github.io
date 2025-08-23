@@ -80,5 +80,15 @@ This will give us a better idea of what other columns (like **name**, **id**, **
 ## Concept 1 : SELECT * FROM table;
 
 # Create a small table
+Using the following query you can create table which you could use to learn further:
+
+
+
+
+# Basis the above created table run SELECT query
+SELECT * FROM students;
+
+You should see something like:
+
 
 
