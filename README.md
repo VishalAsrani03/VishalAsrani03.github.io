@@ -82,13 +82,15 @@ This will give us a better idea of what other columns (like **name**, **id**, **
 # Create a small table
 Using the following query you can create table which you could use to learn further:
 
-
+![Image](https://github.com/user-attachments/assets/4e7c10f9-e62e-47f5-952d-ad441a0e90bd
 
 
 # Basis the above created table run SELECT query
 SELECT * FROM students;
 
 You should see something like:
+
+
 
 
 
