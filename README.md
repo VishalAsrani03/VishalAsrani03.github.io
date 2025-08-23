@@ -75,5 +75,7 @@ This will give us a better idea of what other columns (like **name**, **id**, **
 ![Image](https://github.com/user-attachments/assets/b939c0f4-d24f-491e-9bb8-ae91b434ebf1)
 
 
-#Lets Learn One concept at a time
+# Lets Learn One concept at a time
+
+## Concept 1 : SELECT * FROM table;
 
