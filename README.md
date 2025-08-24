@@ -77,18 +77,17 @@ This will give us a better idea of what other columns (like **name**, **id**, **
 
 # Lets Learn One concept At A Time
 
-## Concept 1 : SELECT * FROM table;
+## Concept 1 : CREATE > INSERT > SELECT
 
-# Create a small table
+# Concept 1.1: Create a small table
 Using the following query you can create table which you could use to learn further:
 
 ![Image](https://github.com/user-attachments/assets/4e7c10f9-e62e-47f5-952d-ad441a0e90bd)
 
+Lets try with one more query this time we add Products table
+Use the following query to create Products table
 
-# Basis the above created table run SELECT query
-SELECT * FROM students;
 
-You should see something like:
 
 
 
