@@ -91,7 +91,7 @@ Use the following query to create Products table
 
 Once you have created a table you can simply follow the steps to display all the tables available
 
-
+![Image](https://github.com/user-attachments/assets/647b5d82-047f-4030-983d-f4cc03d5d56b)
 
 1. Once you open your SQL Play application on your android device you will be able to see 3 lines at top left
 2. Click 3 lines at top left
