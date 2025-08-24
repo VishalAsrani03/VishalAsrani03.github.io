@@ -87,6 +87,7 @@ Using the following query you can create table which you could use to learn furt
 Lets try with one more query this time we add Products table
 Use the following query to create Products table
 
+![Image](https://github.com/user-attachments/assets/4ad1e855-8910-4473-8f7e-aac12522b143)
 
 
 
