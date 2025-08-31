@@ -98,6 +98,18 @@ Once you have created a table you can simply follow the steps to display all the
 3. Select List all tables
 4. You will get a list of all tables available and created
 
+# Concept 1.1.1: Understanding data available with you before moving ahead with advanced queries
+
+The * means select all columns from a table. Think of it as “show me the whole table.”
+
+1. Customers Table
+
+SELECT * FROM customers;
+
+shows all details available in the table
+
+
+
 
 
 
