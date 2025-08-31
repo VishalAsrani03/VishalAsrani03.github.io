@@ -116,7 +116,13 @@ SELECT * FROM employees;
 
 shows all details available in employees table like Title, State, PostalCode, Phone, Last Name, First Name, Fax, Employee Id, Email, Address.
 
+![Image](https://github.com/user-attachments/assets/72a6853f-3c57-4b9e-a82a-63b01686b171)
 
+3. Albums Table
+
+SELECT * FROM albums;
+
+shows details available in table such as Title, Artistid, AlbumId
 
 
 
