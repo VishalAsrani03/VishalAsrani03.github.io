@@ -108,6 +108,14 @@ SELECT * FROM customers;
 
 shows all details available in the table
 
+![Image](https://github.com/user-attachments/assets/79f68713-3148-4358-af94-a517a629650c)
+
+2. Employees Table
+
+SELECT * FROM employees;
+
+shows all details available in employees table like Title, State, PostalCode, Phone, Last Name, First Name, Fax, Employee Id, Email, Address.
+
 
 
 
