@@ -148,5 +148,13 @@ SELECT * FROM students;
 
 Shows the student data you inserted earlier
 
+![Image](https://github.com/user-attachments/assets/d86cd748-f231-4538-bfd3-040672699520)
+
+7. Products Table
+
+SELECT * FROM Products;
+
+Shows your products with name, price, stock, etc.
+
 
 
