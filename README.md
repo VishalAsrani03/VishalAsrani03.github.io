@@ -156,5 +156,5 @@ SELECT * FROM Products;
 
 Shows your products with name, price, stock, etc.
 
-
+![Image](https://github.com/user-attachments/assets/9d8eb93f-049d-46dc-80ba-cb3923b10b4a)i
 
