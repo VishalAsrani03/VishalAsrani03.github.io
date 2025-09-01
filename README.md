@@ -140,3 +140,11 @@ SELECT * FROM tracks;
 
 Shows all music tracks (TrackId, Name, AlbumId, MediaTypeId, GenreId, Composer, UnitPrice, etc.).
 
+
+
+6. Students Table
+
+SELECT * FROM students;
+
+
+
