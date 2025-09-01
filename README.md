@@ -140,11 +140,13 @@ SELECT * FROM tracks;
 
 Shows all music tracks (TrackId, Name, AlbumId, MediaTypeId, GenreId, Composer, UnitPrice, etc.).
 
-
+![Image](https://github.com/user-attachments/assets/7c5856ec-05b4-4d49-9174-631bc19b9554)
 
 6. Students Table
 
 SELECT * FROM students;
+
+Shows the student data you inserted earlier
 
 
 
