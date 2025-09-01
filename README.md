@@ -126,4 +126,10 @@ shows details available in table such as Title, Artistid, AlbumId
 
 ![Image](https://github.com/user-attachments/assets/d0573d43-d072-44a6-b12e-fdc7b1b26ef2)
 
+4. Artists Table
+
+SELECT * FROM artists;
+
+shows details like Name & ArtistId
+
 
