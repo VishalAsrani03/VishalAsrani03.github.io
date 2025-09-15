@@ -158,3 +158,10 @@ Shows your products with name, price, stock, etc.
 
 ![Image](https://github.com/user-attachments/assets/9d8eb93f-049d-46dc-80ba-cb3923b10b4a)i
 
+
+**PRACTISE** **FOR** **GETTING** **DATA** **BASED** **ON** **REQUIREMENT** **OR** **QUESTION** **ASKED**
+
+Q1: What kind of columns or rows can I find in customers table?
+
+A: SELECT * from customers;
+
