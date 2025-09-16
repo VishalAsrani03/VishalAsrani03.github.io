@@ -172,5 +172,16 @@ Q2: Write me a query such that I get the data available in employees table
 
 A: SELECT * FROM employees
 
+![Image](https://github.com/user-attachments/assets/a74b21db-3188-4932-9ad2-0f95ec00a9d8)
+
+
+Q3: Write me query one by one for showing data in albums, artists, tracks, students & Products
+
+A: SELECT * FROM albums
+A: SELECT * FROM artists
+A: SELECT * FROM tracks
+A: SELECT * FROM students
+A: SELECT * FROM Products
+
 
 
