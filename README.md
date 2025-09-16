@@ -233,4 +233,4 @@ FROM students;
 
 Output will show column heading as student_name instead of name.
 
-
+![Image](https://github.com/user-attachments/assets/4b8b9c4c-7081-4436-a153-90d92e05b5bf)
