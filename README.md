@@ -165,5 +165,12 @@ Q1: What kind of columns or rows can I find in customers table?
 
 A: SELECT * from customers;
 
+![Image](https://github.com/user-attachments/assets/177578cd-e785-4dec-b5c7-6786f8b249c6)
+
+
+Q2: Write me a query such that I get the data available in employees table
+
+A: SELECT * FROM employees
+
 
 
