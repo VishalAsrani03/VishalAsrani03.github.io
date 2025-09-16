@@ -165,3 +165,5 @@ Q1: What kind of columns or rows can I find in customers table?
 
 A: SELECT * from customers;
 
+
+
