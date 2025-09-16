@@ -219,3 +219,18 @@ SELECT name, age, city
 FROM students;
 
 
+# HOW TO RENAME COLUMNS
+
+Using the following query you will be able to rename any column
+
+SELECT column_name AS new_name
+FROM table_name;
+
+1. Rename one column from students table
+
+SELECT name AS student_name
+FROM students;
+
+Output will show column heading as student_name instead of name.
+
+
