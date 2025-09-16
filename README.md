@@ -184,4 +184,21 @@ A: SELECT * FROM students
 A: SELECT * FROM Products
 
 
+**SELECTING** **SPECIFIC** **COLUMNS** **INSTEAD** **OF** **EVERYTHING** **IN** **THE** **TABLE**
+
+When you run
+SELECT * FROM students;
+The * means “select all columns” from the table. But sometimes, you don’t need everything — maybe just name and city.
+
+Query to use to get the data from specific columns
+SELECT column1, column2, ...
+FROM table_name;
+
+For students table let run few queries to get data in specific column 
+
+1. Select only name and city:
+
+SELECT name, city
+FROM students;
+
 
