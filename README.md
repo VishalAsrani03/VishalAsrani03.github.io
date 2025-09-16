@@ -201,4 +201,21 @@ For students table let run few queries to get data in specific column
 SELECT name, city
 FROM students;
 
+![Image](https://github.com/user-attachments/assets/2fa27951-446f-471d-bb4a-eceb398cf5e1)
+
+2. Select only name and grade
+
+SELECT name, grade
+FROM students;
+
+3. Select only age
+
+SELECT age
+FROM students;
+
+4. Select name, age, city
+
+SELECT name, age, city
+FROM students;
+
 
