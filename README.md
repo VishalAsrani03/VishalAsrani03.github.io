@@ -234,3 +234,12 @@ FROM students;
 Output will show column heading as student_name instead of name.
 
 ![Image](https://github.com/user-attachments/assets/4b8b9c4c-7081-4436-a153-90d92e05b5bf)
+
+2. Rename multiple column
+
+SELECT name AS student_name, city AS hometown
+FROM students;
+
+Output will show headings student_name and hometown
+
+
