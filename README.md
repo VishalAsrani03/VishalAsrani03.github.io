@@ -242,4 +242,4 @@ FROM students;
 
 Output will show headings student_name and hometown
 
-
+![Image](https://github.com/user-attachments/assets/9bebe631-1f73-46d5-921c-b9e9ca654472)
