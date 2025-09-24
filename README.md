@@ -263,3 +263,11 @@ SELECT name, city
 FROM students
 WHERE city = 'Mumbai';
 
+![Image](https://github.com/user-attachments/assets/378dbe60-90c2-46b7-8687-38fd80abee73)
+
+2. Filter by age
+
+SELECT name, age
+FROM students
+WHERE age > 12;
+
