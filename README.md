@@ -243,3 +243,23 @@ FROM students;
 Output will show headings student_name and hometown
 
 ![Image](https://github.com/user-attachments/assets/9bebe631-1f73-46d5-921c-b9e9ca654472)
+
+
+# FILTERING RESULTS
+
+In SQL filtering is done with the WHERE clause. It lets you return only the rows that meet certain conditions
+
+Syntax to be used
+
+SELECT column1, column2
+FROM table_name
+WHERE condition;
+
+Example with students table
+
+1. Filter by city
+
+SELECT name, city
+FROM students
+WHERE city = 'Mumbai';
+
