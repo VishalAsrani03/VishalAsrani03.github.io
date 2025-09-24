@@ -279,3 +279,11 @@ SELECT name, grade, city
 FROM students
 WHERE city = 'Mumbai' AND grade = 7;
 
+![Image](https://github.com/user-attachments/assets/aba3ae00-b0ab-4da7-a323-52f262acd6e0)
+
+4. Filter by OR
+
+SELECT name, city
+FROM students
+WHERE city = 'Pune' OR city = 'Nashik';
+
