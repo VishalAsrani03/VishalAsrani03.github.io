@@ -295,5 +295,5 @@ SELECT name, city
 FROM students
 WHERE NOT city = 'Mumbai';
 
-
+![Image](https://github.com/user-attachments/assets/f4649d3e-c1f9-468b-9d90-a89fbba938d2)
 
