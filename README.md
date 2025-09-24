@@ -271,3 +271,11 @@ SELECT name, age
 FROM students
 WHERE age > 12;
 
+![Image](https://github.com/user-attachments/assets/1c2d054b-cbdf-476a-bd21-ac5d3611a486)
+
+3. Fiter by multiple conditions
+
+SELECT name, grade, city
+FROM students
+WHERE city = 'Mumbai' AND grade = 7;
+
