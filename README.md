@@ -287,3 +287,13 @@ SELECT name, city
 FROM students
 WHERE city = 'Pune' OR city = 'Nashik';
 
+![Image](https://github.com/user-attachments/assets/a98f9926-80ef-4337-82a0-4745fe77e4a8)
+
+5. Filter with NOT
+
+SELECT name, city
+FROM students
+WHERE NOT city = 'Mumbai';
+
+
+
