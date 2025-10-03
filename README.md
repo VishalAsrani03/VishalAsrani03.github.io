@@ -297,3 +297,18 @@ WHERE NOT city = 'Mumbai';
 
 ![Image](https://github.com/user-attachments/assets/f4649d3e-c1f9-468b-9d90-a89fbba938d2)
 
+
+## LIKE IN SQL
+
+The LIKE keyword is used in WHERE clause to search for a specific pattern in a column. 
+
+% - matches zero or more characters
+_ - matches exactly one character
+
+1. Name starting with "M"
+
+SELECT name, city
+FROM students
+WHERE name LIKE 'M%';
+
+
