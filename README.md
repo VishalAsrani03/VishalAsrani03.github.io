@@ -321,3 +321,15 @@ SELECT name, city
 FROM students
 WHERE name LIKE '%a';
 
+![Image](https://github.com/user-attachments/assets/a96afee4-0edc-416e-8463-bb9e2f901ae5)
+
+
+3. Name with exactly 4 letters
+
+4 underscores = 4 letters
+
+SELECT name
+FROM students
+WHERE name LIKE '____';
+
+
