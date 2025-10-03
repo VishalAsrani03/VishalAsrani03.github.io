@@ -332,4 +332,4 @@ SELECT name
 FROM students
 WHERE name LIKE '____';
 
-
+![Image](https://github.com/user-attachments/assets/4b034461-0142-43fb-bf82-cc6138a909e8)
