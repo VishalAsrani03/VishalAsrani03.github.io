@@ -348,4 +348,17 @@ SELECT name, grade
 FROM students
 WHERE grade BETWEEN 7 AND 9;
 
+![Image](https://github.com/user-attachments/assets/77c94352-a6b4-428b-80b3-810ba5fba51f)
+
+
+# Using IN
+
+The IN operator is used to filter rows where a column matches any value in a list.
+
+1. Students with grade 7, 9 or 10
+
+SELECT name, grade
+FROM students
+WHERE grade IN (7, 9, 10);
+
 
