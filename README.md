@@ -333,3 +333,19 @@ FROM students
 WHERE name LIKE '____';
 
 ![Image](https://github.com/user-attachments/assets/4b034461-0142-43fb-bf82-cc6138a909e8)
+
+
+
+## Filtering with ranges using BETWEEN and IN
+
+# Using BETWEEN
+
+The BETWEEN operator is used to filter values within a range
+
+1. Students with grades between 7 and 9
+
+SELECT name, grade
+FROM students
+WHERE grade BETWEEN 7 AND 9;
+
+
