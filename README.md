@@ -362,3 +362,10 @@ FROM students
 WHERE grade IN (7, 9, 10);
 
 ![Image](https://github.com/user-attachments/assets/c817a4d9-73c8-4a7c-8519-72c50bea8424)
+
+
+# Difference between **BETWEEN** and **IN**
+
+**BETWEEN** - Best when you want a continuous range.
+**IN** - Best when you want to pick specific values. 
+
