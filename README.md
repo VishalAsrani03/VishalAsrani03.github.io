@@ -375,3 +375,18 @@ SELECT name, grade
 FROM students
 WHERE grade BETWEEN 7 and 9;
 
+![Image](https://github.com/user-attachments/assets/2637c7aa-6b53-450c-9d49-86d25d4be2f9)
+
+
+**ORDER BY**
+
+ORDER BY arranges the output rows in a specific order - either ascending (ASC) or descending (DESC)
+
+**Syntax**
+
+SELECT column1, column2
+FROM table_name
+ORDER BY column_name [ASC|DESC];
+
+ASC (ascending) is the default
+DESC (descending) must be written. 
