@@ -369,3 +369,9 @@ WHERE grade IN (7, 9, 10);
 **BETWEEN** - Best when you want a continuous range.
 **IN** - Best when you want to pick specific values. 
 
+**Try this first in your SQL Play app**
+
+SELECT name, grade
+FROM students
+WHERE grade BETWEEN 7 and 9;
+
