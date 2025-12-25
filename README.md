@@ -425,4 +425,7 @@ SELECT name, city
 FROM students
 WHERE name LIKE '%ar%';
 
+![Image](https://github.com/user-attachments/assets/6a93ca5b-76b3-4111-b499-97c409cfd239)
+
+![Image](https://github.com/user-attachments/assets/802d1376-1afa-4c99-b0b8-133887260399)
 
