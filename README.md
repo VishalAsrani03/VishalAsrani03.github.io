@@ -401,4 +401,16 @@ ORDER BY age;
 
 Younger students appear first
 
+![Image](https://github.com/user-attachments/assets/455551c3-64eb-497a-bd0e-fb5cc7f36e2b)
+
+
+2. Sort by age (descending)
+
+SELECT name, age, city
+FROM students
+ORDER by age DESC;
+
+Older students appear first.
+
+
 
