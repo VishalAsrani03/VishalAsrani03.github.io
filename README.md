@@ -412,5 +412,14 @@ ORDER by age DESC;
 
 Older students appear first.
 
+![Image](https://github.com/user-attachments/assets/56511712-38d3-4d62-a480-b7ddeacc7101)
+
+
+3. Sort alphabetically by name
+
+SELECT name, age
+FROM students
+ORDER BY name ASC;
+
 
 
