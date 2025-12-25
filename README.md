@@ -414,5 +414,8 @@ WHERE name LIKE '%a';
 
 Matches with names ending with a
 
+![Image](https://github.com/user-attachments/assets/35154b0c-06e9-43bd-a0ae-b99e82f9261a)
+
+![Image](https://github.com/user-attachments/assets/e8d43ae1-a1bc-46c2-ac13-b0f993d73005)
 
 
