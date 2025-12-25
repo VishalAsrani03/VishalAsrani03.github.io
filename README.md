@@ -405,3 +405,14 @@ Matches name with M (% means anything after M)
 
 ![Image](https://github.com/user-attachments/assets/3da4e6da-b1d2-44ee-be5e-060e30815f46)
 
+
+2. Names ending with 'a'
+
+SELECT name, city
+FROM students
+WHERE name LIKE '%a';
+
+Matches with names ending with a
+
+
+
