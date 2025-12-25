@@ -390,3 +390,15 @@ ORDER BY column_name [ASC|DESC];
 
 ASC (ascending) is the default
 DESC (descending) must be written. 
+
+**Example with students table**
+
+1. Name starting with 'M'
+
+SELECT name, city
+FROM students
+WHERE name like 'M%';
+
+Matches name with M (% means anything after M)
+
+
