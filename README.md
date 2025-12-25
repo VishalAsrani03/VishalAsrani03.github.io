@@ -393,39 +393,12 @@ DESC (descending) must be written.
 
 **Example with students table**
 
-1. Name starting with 'M'
+1. Sort by age (ascending - default)
 
-SELECT name, city
+SELECT name, age, city
 FROM students
-WHERE name like 'M%';
+ORDER BY age;
 
-Matches name with M (% means anything after M)
+Younger students appear first
 
-![Image](https://github.com/user-attachments/assets/fa2bf015-3277-487a-b770-574237476a9d)
-
-![Image](https://github.com/user-attachments/assets/3da4e6da-b1d2-44ee-be5e-060e30815f46)
-
-
-2. Names ending with 'a'
-
-SELECT name, city
-FROM students
-WHERE name LIKE '%a';
-
-Matches with names ending with a
-
-![Image](https://github.com/user-attachments/assets/35154b0c-06e9-43bd-a0ae-b99e82f9261a)
-
-![Image](https://github.com/user-attachments/assets/e8d43ae1-a1bc-46c2-ac13-b0f993d73005)
-
-
-3. Names containing 'ar' anywhere
-
-SELECT name, city
-FROM students
-WHERE name LIKE '%ar%';
-
-![Image](https://github.com/user-attachments/assets/6a93ca5b-76b3-4111-b499-97c409cfd239)
-
-![Image](https://github.com/user-attachments/assets/802d1376-1afa-4c99-b0b8-133887260399)
 
