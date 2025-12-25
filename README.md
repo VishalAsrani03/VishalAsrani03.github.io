@@ -421,5 +421,5 @@ SELECT name, age
 FROM students
 ORDER BY name ASC;
 
-
+![Image](https://github.com/user-attachments/assets/a4ff1ed0-6e36-46cb-8267-7a0f268341d9)
 
