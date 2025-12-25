@@ -419,3 +419,10 @@ Matches with names ending with a
 ![Image](https://github.com/user-attachments/assets/e8d43ae1-a1bc-46c2-ac13-b0f993d73005)
 
 
+3. Names containing 'ar' anywhere
+
+SELECT name, city
+FROM students
+WHERE name LIKE '%ar%';
+
+
