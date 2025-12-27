@@ -428,9 +428,11 @@ ORDER BY name ASC;
 
 SELECT name, city, grade
 FROM students
-ORDER BY city ASC, grade DSC
+ORDER BY city ASC, grade DESC
 
-First sorted by city name (A-Z), then within city sorted by grade (highest first).
+
+
+
 
 
 
