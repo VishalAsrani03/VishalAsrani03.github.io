@@ -423,3 +423,14 @@ ORDER BY name ASC;
 
 ![Image](https://github.com/user-attachments/assets/a4ff1ed0-6e36-46cb-8267-7a0f268341d9)
 
+
+4. Sort by multiple columns
+
+SELECT name, city, grade
+FROM students
+ORDER BY city ASC, grade DSC
+
+First sorted by city name (A-Z), then within city sorted by grade (highest first).
+
+
+
