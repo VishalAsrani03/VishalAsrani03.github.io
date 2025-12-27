@@ -433,6 +433,13 @@ ORDER BY city ASC, grade DESC
 ![Image](https://github.com/user-attachments/assets/fea14481-25e2-49b4-b775-56b13afe3921)
 
 
+5. Sort by custom order on numbers or text
+
+SELECT name, grade
+FROM students
+ORDER BY CAST(grade AS INTEGER)  DESC;
+
+![1000012434](https://github.com/user-attachments/assets/ab04bd50-40eb-4468-b85a-81ae37ee1b2e)
 
 
 
