@@ -430,7 +430,7 @@ SELECT name, city, grade
 FROM students
 ORDER BY city ASC, grade DESC
 
-
+![Image](https://github.com/user-attachments/assets/fea14481-25e2-49b4-b775-56b13afe3921)
 
 
 
