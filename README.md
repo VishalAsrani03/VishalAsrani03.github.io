@@ -448,4 +448,4 @@ SELECT name, age, city
 FROM students
 ORDER BY age DESC;
 
-
+![Image](https://github.com/user-attachments/assets/0fc56f4a-bc2e-4e42-a095-a373ebf6bbcc)
