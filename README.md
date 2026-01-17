@@ -442,4 +442,10 @@ ORDER BY CAST(grade AS INTEGER)  DESC;
 ![1000012434](https://github.com/user-attachments/assets/ab04bd50-40eb-4468-b85a-81ae37ee1b2e)
 
 
+Try in SQL Play App
+
+SELECT name, age, city
+FROM students
+ORDER BY age DESC;
+
 
