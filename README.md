@@ -474,3 +474,15 @@ SELECT *
 FROM students
 LIMIT 3;
 
+![Image](https://github.com/user-attachments/assets/ee951778-dd2d-4b95-ab22-e32306d2e96a)
+
+
+2. Top oldest students
+
+combine ORDER BY + LIMIT
+
+SELECT name, age
+FROM students
+ORDER BY age DESC
+LIMIT 3;
+
