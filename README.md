@@ -449,3 +449,28 @@ FROM students
 ORDER BY age DESC;
 
 ![Image](https://github.com/user-attachments/assets/0fc56f4a-bc2e-4e42-a095-a373ebf6bbcc)
+
+
+LIMIT
+
+LIMIT - show only a fixed number of rows 
+
+LIMIT is used to retrict how many rows are returned by a query. 
+
+Very useful when tables are large or when you want Top - N results
+
+Syntax
+
+SELECT column1, column2
+FROM table_name
+LIMIT number;
+
+LIMIT is usually written at the end of the query. 
+
+
+1. Show only the first 3 students
+
+SELECT *
+FROM students
+LIMIT 3;
+
