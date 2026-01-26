@@ -486,3 +486,4 @@ FROM students
 ORDER BY age DESC
 LIMIT 3;
 
+![Image](https://github.com/user-attachments/assets/a439ce8c-f0e8-461e-aa6f-c0bcb6267584)
