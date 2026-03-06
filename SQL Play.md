@@ -502,4 +502,4 @@ Let's get the Firstname and Title of the first 5 employees only.
 
 SELECT Firstname, Title FROM employees LIMIT 5;
 
-
+![Image](https://github.com/user-attachments/assets/6118b5d6-b08f-4b2e-84b7-443ab4d3e7a7)
