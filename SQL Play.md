@@ -493,4 +493,13 @@ LIMIT 3;
 
 SELECT * FROM employees LIMIT 2;
 
+![Image](https://github.com/user-attachments/assets/24ac8f3f-07f4-4f9b-8931-62f27f365929)
+
+
+4. Specific Data + Limit
+
+Let's get the Firstname and Title of the first 5 employees only. 
+
+SELECT Firstname, Title FROM employees LIMIT 5;
+
 
